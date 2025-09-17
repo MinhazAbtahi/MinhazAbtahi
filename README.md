@@ -24,10 +24,10 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=MinhazAbtahi&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight"/>
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhazAbtahi&layout=compact&theme=tokyonight"/>
 </p>  
--->
+
 
 ---
-
+-->
 ## ⚡ Tech Stack  
 <p align="left">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
