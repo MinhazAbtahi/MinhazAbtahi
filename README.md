@@ -1,14 +1,15 @@
 # 👋 Hi, I’m Minhaz Abtahi  
 
-**Software Engineer** specializing in **Game Development** and **Multiplayer Systems**. I build **mobile games** with smooth performance and **scalable backends** supporting real-time networking and high concurrency.  
+**Software Engineer** specializing in **Game Development**, **Multiplayer Systems**, and **Graphics/Shader Programming**. I build **mobile games** with smooth performance and **scalable backends** supporting real-time networking and high concurrency. I also enjoy solving algorithmic challenges and creating visual effects using shaders.  
 
 ---
 
 ## 🛠️ Skills  
-- **Game Dev**: Unity (C#), Mobile, Multiplayer, Real-Time Sync  
+- **Game Dev**: Unity (C#), Mobile, Multiplayer, Real-Time Sync, Shader Programming  
 - **Backend**: .NET, WebSockets, REST, PostgreSQL  
 - **System Design**: Distributed Systems, High Concurrency, DB Optimization  
 - **Languages**: C#, C++, Java, Python  
+- **Coding & Problem Solving**: Algorithms, Data Structures, Competitive Programming  
 
 ---
 
@@ -16,6 +17,7 @@
 - Mobile games with optimized performance  
 - Multiplayer frameworks at scale  
 - Backend services for seamless sync & persistence  
+- Algorithmic problem solving & interactive shader effects  
 
 ---
 
@@ -25,9 +27,9 @@
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhazAbtahi&layout=compact&theme=tokyonight"/>
 </p>  
 
-
 ---
 -->
+
 ## ⚡ Tech Stack  
 <p align="left">
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -43,6 +45,11 @@
 ---
 
 ## 📫 Connect  
+- 📧 abtahi.7cgen@gmail.com 
 - [GitHub](https://github.com/MinhazAbtahi)  
-- [LinkedIn](https://www.linkedin.com/in/minhaz-abtahi)  
-- 📧 abtahi.7cgen@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/minhaz-abtahi)
+- [LeetCode](https://leetcode.com/u/MinhazAbtahi/)  
+- [UVa / U-Hunt](https://uhunt.onlinejudge.org/id/594058)  
+- [Shadertoy](https://www.shadertoy.com/user/theAbtahi)
+
+---
