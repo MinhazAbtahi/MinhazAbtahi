@@ -8,7 +8,7 @@
 - **Game Dev**: Unity (C#), Mobile, Multiplayer, Real-Time Sync, Shader Programming  
 - **Backend**: .NET, WebSockets, REST, PostgreSQL  
 - **System Design**: Distributed Systems, High Concurrency, DB Optimization  
-- **Languages**: C#, C++, Java, Python  
+- **Languages**: C#, C++, Go, Java, Python  
 - **Coding & Problem Solving**: Algorithms, Data Structures, Competitive Programming  
 
 ---
