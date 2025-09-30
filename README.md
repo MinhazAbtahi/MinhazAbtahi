@@ -9,7 +9,7 @@
 - **Backend**: .NET, WebSockets, REST, PostgreSQL  
 - **System Design**: Distributed Systems, High Concurrency, DB Optimization  
 - **Languages**: C#, C++, Go, Java, Python  
-- **Coding & Problem Solving**: Algorithms, Data Structures, Competitive Programming  
+- **Coding & Problem Solving**: Algorithms, Data Structures, Competitive Programming, Embedded Programming  
 
 ---
 
@@ -41,6 +41,7 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/WebSockets-003B57?style=for-the-badge&logo=websocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> </p>
 </p>  
 
 ---
