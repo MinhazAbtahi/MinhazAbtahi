@@ -51,7 +51,7 @@
 - [GitHub](https://github.com/MinhazAbtahi)  
 - [LinkedIn](https://www.linkedin.com/in/minhaz-abtahi)
 - [LeetCode](https://leetcode.com/u/MinhazAbtahi/)  
-- [UVa / U-Hunt](https://uhunt.onlinejudge.org/id/594058)  
+- [UVa/uHunt](https://uhunt.onlinejudge.org/id/594058)  
 - [Shadertoy](https://www.shadertoy.com/user/theAbtahi)
 
 ---
